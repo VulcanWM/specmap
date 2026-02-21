@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useCallback, useMemo } from "react"
+import { useState, useCallback, useMemo, useEffect } from "react"
 import { ChevronDown, BookOpen, Sparkles } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { RagButton, type RagStatus } from "@/components/rag-button"
@@ -294,6 +294,17 @@ function TopicBlock({
 
 export function SpecViewer() {
   const [ratings, setRatings] = useState<Ratings>({})
+
+  useEffect(() => {
+    const saved = localStorage.getItem("physics-aqa-alevel-ratings")
+    if (saved) {
+      setRatings(JSON.parse(saved))
+    }
+  }, [])
+
+  useEffect(() => {
+      localStorage.setItem("physics-aqa-alevel-ratings", JSON.stringify(ratings))
+  }, [ratings])
 
   const onRatingChange = useCallback((id: string, status: RagStatus) => {
     setRatings((prev) => ({ ...prev, [id]: status }))
