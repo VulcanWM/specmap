@@ -1,0 +1,145 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #fdf6f0;
+  --foreground: #3d3244;
+  --card: #ffffff;
+  --card-foreground: #3d3244;
+  --popover: #ffffff;
+  --popover-foreground: #3d3244;
+  --primary: #e8a0bf;
+  --primary-foreground: #3d3244;
+  --secondary: #f5e6d8;
+  --secondary-foreground: #3d3244;
+  --muted: #f0e4f7;
+  --muted-foreground: #7a6b84;
+  --accent: #b8d8e8;
+  --accent-foreground: #3d3244;
+  --destructive: #f4a0a0;
+  --destructive-foreground: #5c2020;
+  --border: #eedde5;
+  --input: #eedde5;
+  --ring: #d4a5c7;
+  --chart-1: #e8a0bf;
+  --chart-2: #b8d8e8;
+  --chart-3: #c5e8c0;
+  --chart-4: #f5d5a0;
+  --chart-5: #d4b5e8;
+  --radius: 0.75rem;
+  --sidebar: #fdf6f0;
+  --sidebar-foreground: #3d3244;
+  --sidebar-primary: #e8a0bf;
+  --sidebar-primary-foreground: #3d3244;
+  --sidebar-accent: #f0e4f7;
+  --sidebar-accent-foreground: #3d3244;
+  --sidebar-border: #eedde5;
+  --sidebar-ring: #d4a5c7;
+
+  --rag-red: #f4a0a0;
+  --rag-red-active: #e86b6b;
+  --rag-amber: #f5d5a0;
+  --rag-amber-active: #e8b84d;
+  --rag-green: #c5e8c0;
+  --rag-green-active: #7dc876;
+}
+
+.dark {
+  --background: #2a2030;
+  --foreground: #f0e4f7;
+  --card: #352a3c;
+  --card-foreground: #f0e4f7;
+  --popover: #352a3c;
+  --popover-foreground: #f0e4f7;
+  --primary: #e8a0bf;
+  --primary-foreground: #2a2030;
+  --secondary: #3d3244;
+  --secondary-foreground: #f0e4f7;
+  --muted: #3d3244;
+  --muted-foreground: #b8a5c4;
+  --accent: #4a3d55;
+  --accent-foreground: #f0e4f7;
+  --destructive: #e86b6b;
+  --destructive-foreground: #fdf6f0;
+  --border: #4a3d55;
+  --input: #4a3d55;
+  --ring: #d4a5c7;
+  --chart-1: #e8a0bf;
+  --chart-2: #b8d8e8;
+  --chart-3: #c5e8c0;
+  --chart-4: #f5d5a0;
+  --chart-5: #d4b5e8;
+  --sidebar: #2a2030;
+  --sidebar-foreground: #f0e4f7;
+  --sidebar-primary: #e8a0bf;
+  --sidebar-primary-foreground: #2a2030;
+  --sidebar-accent: #3d3244;
+  --sidebar-accent-foreground: #f0e4f7;
+  --sidebar-border: #4a3d55;
+  --sidebar-ring: #d4a5c7;
+
+  --rag-red: #5c2828;
+  --rag-red-active: #e86b6b;
+  --rag-amber: #5c4a20;
+  --rag-amber-active: #e8b84d;
+  --rag-green: #2a4a28;
+  --rag-green-active: #7dc876;
+}
+
+@theme inline {
+  --font-sans: var(--font-dm-sans), 'DM Sans', sans-serif;
+  --font-mono: var(--font-dm-mono), 'DM Mono', monospace;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-rag-red: var(--rag-red);
+  --color-rag-red-active: var(--rag-red-active);
+  --color-rag-amber: var(--rag-amber);
+  --color-rag-amber-active: var(--rag-amber-active);
+  --color-rag-green: var(--rag-green);
+  --color-rag-green-active: var(--rag-green-active);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

@@ -1,0 +1,526 @@
+{
+    "3.1 Measurements and their errors": {
+        "3.1.1 Use of SI units and their prefixes": {
+            "content": "Fundamental (base) units. Use of mass, length, time, amount of substance , temperature, electric current and their associated SI units. SI units derived. Knowledge and use of the SI prefixes, values and standard form. The fundamental unit of light intensity, the candela, is excluded. Students are not expected to recall definitions of the fundamental quantities. Dimensional analysis is not required. Students should be able to use the prefixes: T,G, M, k, c, m, μ, n, p, f ,Students should be able to convert between different units of the same quantity, eg J and eV , J and kW h . ",
+            "opportunity": " "
+        },
+        "3.1.2 Limitation of physical measurements": {
+            "content": "Random and systematic errors. Precision, repeatability, reproducibility, resolution and accuracy. Uncertainty:Absolute, fractional and percentage uncertaintiesrepresent uncertainty in the final answer for a quantity. Combination of absolute and percentage uncertainties. Represent uncertainty in a data point on a graph using error bars. Determine the uncertainties in the gradient and intercept of a straight-line graph. Individual points on the graph may or may not have associated error bars. ",
+            "opportunity": " PS 2. 3 Students should be able to identify random and systematic errors and suggest ways to reduce or remove them.  PS 3. 3 Students should understand the link between the number of significant figures in the value of a quantity and its associated uncertainty.  MS 1. 5 Students should be able to combine uncertainties in cases where the measurements that give rise to the uncertainties are added, subtracted, multiplied, divided, or raised to powers.  Combinations involving trigonometric or logarithmic functions will not be required. "
+        },
+        "3.1.3 Estimation of physical quantities": {
+            "content": "Orders of magnitude. Estimation of approximate values of physical quantities. ",
+            "opportunity": " MS 1. 4 Students should be able to estimate approximate values of physical quantities to the nearest order of magnitude. Students should be able to use these estimates together with their knowledge of physics to produce further derived estimates also to the nearest order of magnitude. "
+        }
+    },
+    "3.2 Particles and radiation": {
+        "3.2.1 Particles": {
+            "3.2.1.1 Constituents of the atom": {
+                "content": "Simple model of the atom, including the proton, neutron and electron.  Charge and mass of the proton, neutron and electron in SI units and relative units. The atomic mass unit (amu) is included in the A-level Nuclear physics section. Specific charge of the proton and the electron, and of nuclei and ions. Proton number Z , nucleon number A , nuclide notation. Students should be familiar with the XZA notation. Meaning of isotopes and the use of isotopic data. ",
+                "opportunity": " "
+            },
+            "3.2.1.2 Stable and unstable nuclei": {
+                "content": "The strong nuclear force; its role in keeping the nucleus stable; short-range attraction up to approximately 3 fm , very-short range repulsion closer than approximately 0. 5 fm . Unstable nuclei; alpha and beta decay. Equations for alpha decay, β- decay including the need for the neutrino. The existence of the neutrino was hypothesised to account for conservation of energy in beta decay. ",
+                "opportunity": " AT i Demonstration of the range of alpha particles using a cloud chamber, spark counter or Geiger counter.  MS 0. 2 Use of prefixes for small and large distance measurements. "
+            },
+            "3.2.1.3 Particles, antiparticles and photons": {
+                "content": "For every type of particle, there is a corresponding antiparticle. Comparison of particle and antiparticle masses, charge and rest energy in MeV . Students should know that the positron, antiproton, antineutron and antineutrino are the antiparticles of the electron, proton, neutron and neutrino respectively. Photon model of electromagnetic radiation, the Planck constant.  E=hf=hcλ Knowledge of annihilation and pair production and the energies involved. The use of E=mc2 is not required in calculations. ",
+                "opportunity": " AT i Detection of gamma radiation.  MS 1. 1, 2. 2 Students could determine the frequency and wavelength of the two gamma photons produced when a ‘slow’ electron and a ‘slow' positron annihilate each other. The PET scanner could be used as an application of annihilation. "
+            },
+            "3.2.1.4 Particle interactions": {
+                "content": "Four fundamental interactions: gravity, electromagnetic, weak nuclear, strong nuclear.  (The strong nuclear force may be referred to as the strong interaction. )The concept of exchange particles to explain forces between elementary particles. Knowledge of the gluon, Z0 and graviton will not be tested. The electromagnetic force; virtual photons as the exchange particle. The weak interaction limited to β- and β+ decay, electron capture and electron–proton collisions; W+ and W- as the exchange particles. Simple diagrams to represent the above reactions or interactions in terms of incoming and outgoing particles and exchange particles. ",
+                "opportunity": " PS 1. 2 Momentum transfer of a heavy ball thrown from one person to another. "
+            },
+            "3.2.1.5 Classification of particles": {
+                "content": "Hadrons are subject to the strong interaction. The two classes of hadrons:baryons (proton, neutron) and antibaryons (antiproton and antineutron)mesons (pion, kaon). Baryon number as a quantum number. Conservation of baryon number. The proton is the only stable baryon into which other baryons eventually decay. The pion as the exchange particle of the strong nuclear force. The kaon as a particle that can decay into pions. Leptons: electron, muon, neutrino (electron and muon types only) and their antiparticles. Lepton number as a quantum number; conservation of lepton number for muon leptons and for electron leptons. The muon as a particle that decays into an electron. Strange particlesStrange particles as particles that are produced through the strong interaction and decay through the weak interaction (eg kaons). Strangeness (symbol s) as a quantum number to reflect the fact that strange particles are always created in pairs. Conservation of strangeness in strong interactions. Strangeness can change by 0, +1 or -1 in weak interactions. Appreciation that particle physics relies on the collaborative efforts of large teams of scientists and engineers to validate new knowledge. ",
+                "opportunity": " AT k Use of computer simulations of particle collisions.  AT I Cosmic ray showers as a source of high energy particles including pions and kaons; observation of stray tracks in a cloud chamber; use of two Geiger counters to detect a cosmic ray shower. "
+            },
+            "3.2.1.6 Quarks and antiquarks": {
+                "content": "Properties of quarks and antiquarks: charge, baryon number and strangeness. Combinations of quarks and antiquarks required for baryons (proton and neutron only), antibaryons (antiproton and antineutron only) and mesons (pion and kaon only). Only knowledge of up (u), down (d) and strange (s) quarks and their antiquarks will be tested. The decay of the neutron should be known. ",
+                "opportunity": " "
+            },
+            "3.2.1.7 Applications of conservation laws": {
+                "content": "Change of quark character in β- and in β+ decay. Application of the conservation laws for charge, baryon number, lepton number and strangeness to particle interactions.  The necessary data will be provided in questions for particles outside those specified. Students should recognise that energy and momentum are conserved in interactions. ",
+                "opportunity": " "
+            }
+        },
+        "3.2.2 Electromagnetic radiation and quantum phenomena": {
+            "3.2.2.1 The photoelectric effect": {
+                "content": "Threshold frequency; photon explanation of threshold frequency. Work function ϕ , stopping potential. Photoelectric equation: hf=ϕ+Ek (max)  Ek (max)  is the maximum kinetic energy of the photoelectrons. The experimental determination of stopping potential is not required. ",
+                "opportunity": " PS 3. 2 / MS 2. 3 Demonstration of the photoelectric effect using a photocell or an electroscope with a zinc plate attachment and UV lamp. "
+            },
+            "3.2.2.2 Collisions of electrons with atoms": {
+                "content": "Ionisation and excitation; understanding of ionisation and excitation in the fluorescent tube. The electron volt. Students will be expected to be able to convert eV into J and vice versa. ",
+                "opportunity": " "
+            },
+            "3.2.2.3 Energy levels and photon emission": {
+                "content": "Line spectra (eg of atomic hydrogen) as evidence for transitions between discrete energy levels in atoms.  hf=E1-E2 In questions, energy levels may be quoted in J or eV . ",
+                "opportunity": " AT j / MS 0. 1, 0. 2 Observation of line spectra using a diffraction grating. "
+            },
+            "3.2.2.4 Wave-particle duality": {
+                "content": "Students should know that electron diffraction suggests that particles possess wave properties and the photoelectric effect suggests that electromagnetic waves have a particulate nature. Details of particular methods of particle diffraction are not expected. de Broglie wavelength λ=hmv where mv is the momentum. Students should be able to explain how and why the amount of diffraction changes when the momentum of the particle is changed. Appreciation of how knowledge and understanding of the nature of matter changes over time. Appreciation that such changes need to be evaluated through peer review and validated by the scientific community. ",
+                "opportunity": " PS 1. 2 Demonstration using an electron diffraction tube.  MS 1. 1, 2. 3 Use prefixes when expressing wavelength values. "
+            }
+        }
+    },
+    "3.3 Waves": {
+        "3.3.1 Progressive and stationary waves": {
+            "3.3.1.1 Progressive waves": {
+                "content": "Oscillation of the particles of the medium;amplitude, frequency, wavelength, speed, phase, phase difference, c=fλ     f=1T Phase difference may be measured as angles (radians and degrees) or as fractions of a cycle. ",
+                "opportunity": " PS 2. 3 / MS 0. 1, 4. 7 / AT a, b Laboratory experiment to determine the speed of sound in free air using direct timing or standing waves with a graphical analysis. "
+            },
+            "3.3.1.2 Longitudinal and transverse waves": {
+                "content": "Nature of longitudinal and transverse waves. Examples to include: sound, electromagnetic waves, and waves on a string. Students will be expected to know the direction of displacement of particles/fields relative to the direction of energy propagation and that all electromagnetic waves travel at the same speed in a vacuum. Polarisation as evidence for the nature of transverse waves. Applications of polarisers to include Polaroid material and the alignment of aerials for transmission and reception. Malus’s law will not be expected. ",
+                "opportunity": " PS 2. 2, 2. 4 / MS 1. 2, 3. 2, 3. 4, 3. 5 / AT i Students can investigate the factors that determine the speed of a water wave. "
+            },
+            "3.3.1.3 Principle of superposition of waves and formation of stationary waves": {
+                "content": "Stationary waves. Nodes and antinodes on strings.  f=12lTμ for first harmonic. The formation of stationary waves by two waves of the same frequency travelling in opposite directions. A graphical explanation of formation of stationary waves will be expected. Stationary waves formed on a string and those produced with microwaves and sound waves should be considered. Stationary waves on strings will be described in terms of harmonics.  The terms fundamental (for first harmonic) and overtone will not be used. ",
+                "opportunity": " MS 4. 7 / PS 1. 2, 2. 1 / AT i Students can investigate the factors that determine the frequency of stationary wave patterns of a stretched string. "
+            }
+        },
+        "3.3.2 Refraction, diffraction and interference": {
+            "3.3.2.1 Interference": {
+                "content": "Path difference.  Coherence. Interference and diffraction using a laser as a source of monochromatic light. Young’s double-slit experiment: the use of two coherent sources or the use of a single source with double slits to produce an interference pattern. Fringe spacing, w=λDs Production of interference pattern using white light. Students are expected to show awareness of safety issues associated with using lasers. Students will not be required to describe how a laser works. Students will be expected to describe and explain interference produced with sound and electromagnetic waves. Appreciation of how knowledge and understanding of nature of electromagnetic radiation has changed over time. ",
+                "opportunity": " AT i Investigation of two-source interference with sound, light and microwave radiation. "
+            },
+            "3.3.2.2 Diffraction": {
+                "content": "Appearance of the diffraction pattern from a single slit using monochromatic and white light. Qualitative treatment of the variation of the width of the central diffraction maximum with wavelength and slit width.  The graph of intensity against angular separation is not required. Plane transmission diffraction grating at normal incidence. Derivation of dsinθ=nλ Use of the spectrometer will not be tested. Applications of diffraction gratings. ",
+                "opportunity": " "
+            },
+            "3.3.2.3 Refraction at a plane surface": {
+                "content": "Refractive index of a substance,  n=ccs Students should recall that the refractive index of air is approximately 1. Snell’s law of refraction for a boundary   n1sin⁡θ1=n2sin⁡θ2 Total internal reflection sin⁡θc=n2n1 Simple treatment of fibre optics including the function of the cladding. Optical fibres will be limited to step index only. Material and modal dispersion. Students are expected to understand the principles and consequences of pulse broadening and absorption. ",
+                "opportunity": " MS 0. 6, 4. 1 "
+            }
+        }
+    },
+    "3.4 Mechanics and materials": {
+        "3.4.1 Force, energy and momentum": {
+            "3.4.1.1 Scalars and vectors": {
+                "content": "Nature of scalars and vectors. Examples should include:velocity/speed, mass, force/weight, acceleration, displacement/distance. Addition of vectors by calculation or scale drawing. Calculations will be limited to two vectors at right angles.  Scale drawings may involve vectors at angles other than 90 °. Resolution of vectors into two components at right angles to each other. Examples should include components of forces along and perpendicular to an inclined plane. Problems may be solved either by the use of resolved forces or the use of a closed triangle. Conditions for equilibrium for two or three coplanar forces acting at a point.  Appreciation of the meaning of equilibrium in the context of an object at rest or moving with constant velocity. ",
+                "opportunity": " MS 0. 6, 4. 2, 4. 4, 4. 5 / PS 1. 1 Investigation of the conditions for equilibrium for three coplanar forces acting at a point using a force board. "
+            },
+            "3.4.1.2 Moments": {
+                "content": "Moment of a force about a point. Moment defined as force × perpendicular distance from the point to the line of action of the force . Couple as a pair of equal and opposite coplanar forces. Moment of couple defined as force × perpendicular distance between the lines of action of the forces . Principle of moments. Centre of mass. Knowledge that the position of the centre of mass of uniform regular solid is at its centre. ",
+                "opportunity": " "
+            },
+            "3.4.1.3 Motion along a straight line": {
+                "content": "Displacement, speed, velocity, acceleration.  v=∆s∆t  a=∆v∆t Calculations may include average and instantaneous speeds and velocities. Representation by graphical methods of uniform and non-uniform acceleration. Significance of areas of velocity–time and acceleration–time graphs and gradients of displacement–time and velocity–time graphs for uniform and non-uniform acceleration eg graphs for motion of bouncing ball. Equations for uniform acceleration: v=u+at  s=u+v2t   s=ut+at22  v2=u2+2as Acceleration due to gravity, g . ",
+                "opportunity": " MS 3. 6, 3. 7 / PS 1. 1, 3. 1 Distinguish between instantaneous velocity and average velocity.  MS 3. 5, 3. 6 Measurements and calculations from displacement–time, velocity–time and acceleration–time graphs.  MS 0. 5, 2. 2, 2. 3, 2. 4 Calculations involving motion in a straight line. "
+            },
+            "3.4.1.4 Projectile motion": {
+                "content": "Independent effect of motion in horizontal and vertical directions of a uniform gravitational field.  Problems will be solvable using the equations of uniform acceleration. Qualitative treatment of friction. Distinctions between static and dynamic friction will not be tested. Qualitative treatment of lift and drag forces. Terminal speed. Knowledge that air resistance increases with speed. Qualitative understanding of the effect of air resistance on the trajectory of a projectile and on the factors that affect the maximum speed of a vehicle. ",
+                "opportunity": " PS 2. 2, 3. 1 Investigation of the factors that determine the motion of an object through a fluid. "
+            },
+            "3.4.1.5 Newton’s laws of motion": {
+                "content": "Knowledge and application of the three laws of motion in appropriate situations.  F=ma for situations where the mass is constant. ",
+                "opportunity": " PS 4. 1 / MS 0. 5, 3. 2 / AT a, b, d Students can verify Newton’s second law of motion.  MS 4. 1, 4. 2 Students can use free-body diagrams. "
+            },
+            "3.4.1.6 Momentum": {
+                "content": " momentum=mass×velocity Conservation of linear momentum. Principle applied quantitatively to problems in one dimension. Force as the rate of change of momentum, F=∆mv∆t Impulse = change in momentum F∆t=∆mv , where F is constant. Significance of the area under a force–time graph. Quantitative questions may be set on forces that vary with time.  Impact forces are related to contact times (eg kicking a football, crumple zones, packaging). Elastic and inelastic collisions; explosions. Appreciation of momentum conservation issues in the context of ethical transport design. ",
+                "opportunity": " MS 2. 2, 2. 3 Students can apply conservation of momentum and rate of change of momentum to a range of examples. "
+            },
+            "3.4.1.7 Work, energy and power": {
+                "content": "Energy transferred, W=Fscos⁡θ  rate of doing work=rate of energy transfer,  P=∆W∆t=Fv Quantitative questions may be set on variable forces. Significance of the area under a force–displacement graph.  efficiency=useful output powerinput power Efficiency can be expressed as a percentage. ",
+                "opportunity": " MS 0. 3 / PS 3. 3, 4. 1 / AT a, b, f . Investigate the efficiency of an electric motor being used to raise a mass through a measured height.  Students should be able to identify random and systematic errors in the experiment and suggest ways to remove them. "
+            },
+            "3.4.1.8 Conservation of energy": {
+                "content": "Principle of conservation of energy.  ∆Ep=mg∆h and Ek=12mv2 Quantitative and qualitative application of energy conservation to examples involving gravitational potential energy, kinetic energy, and work done against resistive forces. ",
+                "opportunity": " MS 0. 4, 2. 2 Estimate the energy that can be derived from food consumption. "
+            }
+        },
+        "3.4.2 Materials": {
+            "3.4.2.1 Bulk properties of solids": {
+                "content": "Density, ρ=mV Hooke’s law, elastic limit, F=k∆L , k  as stiffness and spring constant. Tensile strain and tensile stress. Elastic strain energy, breaking stress.  energy stored=12F∆L=area under force-extension graph Description of plastic behaviour, fracture and brittle behaviour linked to force–extension graphs. Quantitative and qualitative application of energy conservation to examples involving elastic strain energy and energy to deform. Spring energy transformed to kinetic and gravitational potential energy. Interpretation of simple stress–strain curves. Appreciation of energy conservation issues in the context of ethical transport design. ",
+                "opportunity": " MS 0. 2, 4. 3 / PS 3. 3, 4. 1 Students can compare the use of analogue and digital meters.  MS 0. 4, 4. 3 / AT e Estimate the volume of an object leading to an estimate of its density. "
+            },
+            "3.4.2.2 The Young modulus": {
+                "content": " Young modulus=tensile stresstensile strain=FLA∆L Use of stress–strain graphs to find the Young modulus. (One simple method of measurement is required. )",
+                "opportunity": " MS 3. 1 "
+            }
+        }
+    },
+    "3.5 Electricity": {
+        "3.5.1 Current electricity": {
+            "3.5.1.1 Basics of electricity": {
+                "content": "Electric current as the rate of flow of charge; potential difference as work done per unit charge.  I=∆Q∆t, V=WQ Resistance defined as R=VI ",
+                "opportunity": " AT b, f Students can construct circuits from the range of components. "
+            },
+            "3.5.1.2 Current–voltage characteristics": {
+                "content": "For an ohmic conductor, semiconductor diode, and filament lamp. Ohm’s law as a special case where I∝V under constant physical conditions. Unless specifically stated in questions, ammeters and voltmeters should be treated as ideal (having zero and infinite resistance respectively). Questions can be set where either I or V is on the horizontal axis of the characteristic graph. ",
+                "opportunity": " "
+            },
+            "3.5.1.3 Resistivity": {
+                "content": "Resistivity, ρ=RAL Description of the qualitative effect of temperature on the resistance of metal conductors and thermistors. Only negative temperature coefficient (ntc) thermistors will be considered. Applications of thermistors to include temperature sensors and resistance–temperature graphs. Superconductivity as a property of certain materials which have zero resistivity at and below a critical temperature which depends on the material. Applications of superconductors to include the production of strong magnetic fields and the reduction of energy loss in transmission of electric power. Critical field will not be assessed. ",
+                "opportunity": " MS 3. 2, 4. 3 / PS 1. 2 / AT a, b, f, g Investigation of the variation of resistance of a thermistor with temperature. "
+            },
+            "3.5.1.4 Circuits": {
+                "content": "Resistors: in series, RT=R1+R2+R3+…  in parallel,1RT=1R1+1R2+1R3+ …  Energy and power equations: E=IVt ; P=IV=I2R=V2R The relationships between currents, voltages and resistances in series and parallel circuits, including cells in series and identical cells in parallel. Conservation of charge and conservation of energy in dc circuits. ",
+                "opportunity": " MS 0. 3 / PS 4. 1 / AT a, b, f, g Students can construct circuits with various component configurations and measure currents and potential differences. "
+            },
+            "3.5.1.5 Potential divider": {
+                "content": "The potential divider used to supply constant or variable potential difference from a power supply. The use of the potentiometer as a measuring instrument is not required. Examples should include the use of variable resistors, thermistors, and light dependent resistors (LDR) in the potential divider. ",
+                "opportunity": " MS 3. 2 / PS 4. 1 / AT f Students can investigate the behaviour of a potential divider circuit.  MS 3. 2 / AT g Students should design and construct potential divider circuits to achieve various outcomes. "
+            },
+            "3.5.1.6 Electromotive force and internal resistance": {
+                "content": " ε=EQ , ε=I(R+r) Terminal pd; emfStudents will be expected to understand and perform calculations for circuits in which the internal resistance of the supply is not negligible. ",
+                "opportunity": ""
+            }
+        }
+    },
+    "3.6 Further mechanics and thermal physics (A-level only)": {
+        "3.6.1 Periodic motion (A-level only)": {
+            "3.6.1.1 Circular motion (A-level only)": {
+                "content": "Motion in a circular path at constant speed implies there is an acceleration and requires a centripetal force. Magnitude of angular speed ω=vr=2πf Radian measure of angle. Direction of angular velocity will not be considered. Centripetal acceleration a=v2r=ω2r The derivation of the centripetal acceleration formula will not be examined. Centripetal force F=mv2r=mω2r ",
+                "opportunity": " MS 0. 4 Estimate the acceleration and centripetal force in situations that involve rotation. "
+            },
+            "3.6.1.2 Simple harmonic motion (SHM) (A-level only)": {
+                "content": "Analysis of characteristics of simple harmonic motion (SHM). Condition for SHM: a∝-x Defining equation: a=-ω2x  x=Acos⁡ωt and v=±ωA2-x2 Graphical representations linking the variations of x , v and a with time. Appreciation that the v-t  graph is derived from the gradient of the x-t graph and that the a-t  graph is derived from the gradient of the v-t graph. Maximum speed =ωA Maximum acceleration =ω2A ",
+                "opportunity": " AT i, k Data loggers can be used to produce s-t , v-t and a-t  graphs for SHM.  MS 3. 6, 3. 8, 3. 9, 3. 12 Sketch relationships between x , v , a and t for simple harmonic oscillators. "
+            },
+            "3.6.1.3 Simple harmonic systems (A-level only)": {
+                "content": "Study of mass-spring system: T=2πmk Study of simple pendulum: T=2πlg Questions may involve other harmonic oscillators (eg liquid in U-tube) but full information will be provided in questions where necessary. Variation of Ek ,  Ep , and total energy with both displacement and time. Effects of damping on oscillations. ",
+                "opportunity": " MS 4. 6 / AT b, c Students should recognise the use of the small-angle approximation in the derivation of the time period for examples of approximate SHM. "
+            },
+            "3.6.1.4 Forced vibrations and resonance (A-level only)": {
+                "content": "Qualitative treatment of free and forced vibrations. Resonance and the effects of damping on the sharpness of resonance. Examples of these effects in mechanical systems and situations involving stationary waves. ",
+                "opportunity": " AT g, i, k Investigation of the factors that determine the resonant frequency of a driven system. "
+            }
+        },
+        "3.6.2 Thermal physics (A-level only)": {
+            "3.6.2.1 Thermal energy transfer (A-level only)": {
+                "content": "Internal energy is the sum of the randomly distributed kinetic energies and potential energies of the particles in a body. The internal energy of a system is increased when energy is transferred to it by heating or when work is done on it (and vice versa), eg a qualitative treatment of the first law of thermodynamics. Appreciation that during a change of state the potential energies of the particle ensemble are changing but not the kinetic energies.  Calculations involving transfer of energy. For a change of temperature: Q=mc∆θ where c is specific heat capacity. Calculations including continuous flow. For a change of state Q=ml where l is the specific latent heat. ",
+                "opportunity": " MS 1. 5 / PS 2. 3 / AT a, b, d, f Investigate the factors that affect the change in temperature of a substance using an electrical method or the method of mixtures. Students should be able to identify random and systematic errors in the experiment and suggest ways to remove them.  PS 1. 1, 4. 1 / AT k Investigate, with a data logger and temperature sensor, the change in temperature with time of a substance undergoing a phase change when energy is supplied at a constant rate. "
+            },
+            "3.6.2.2 Ideal gases (A-level only)": {
+                "content": "Gas laws as experimental relationships between p , V , T and the mass of the gas. Concept of absolute zero of temperature. Ideal gas equation: pV=nRT for n moles and pV=NkT for N molecules.  Work done=p∆V Avogadro constant NA , molar gas constant R , Boltzmann constant k Molar mass and molecular mass. ",
+                "opportunity": " "
+            },
+            "3.6.2.3 Molecular kinetic theory model (A-level only)": {
+                "content": "Brownian motion as evidence for existence of atoms. Explanation of relationships between p , V and T in terms of a simple molecular model. Students should understand that the gas laws are empirical in nature whereas the kinetic theory model arises from theory. Assumptions leading to pV=13Nmcrms2   including derivation of the equation and calculations. A simple algebraic approach involving conservation of momentum is required. Appreciation that for an ideal gas internal energy is kinetic energy of the atoms. Use of average molecular kinetic energy = 12mcrms2=32kT=3RT2NA Appreciation of how knowledge and understanding of the behaviour of a gas has changed over time. ",
+                "opportunity": " "
+            }
+        }
+    },
+    "3.7 Fields and their consequences (A-level only)": {},
+    "3.8 Nuclear physics (A-level only)": {
+        "3.8.1 Radioactivity (A-level only)": {
+            "3.8.1.1 Rutherford scattering (A-level only)": {
+                "content": "Qualitative study of Rutherford scattering. Appreciation of how knowledge and understanding of the structure of the nucleus has changed over time. ",
+                "opportunity": " "
+            },
+            "3.8.1.2 α, β and γ radiation (A-level only)": {
+                "content": "Their properties and experimental identification using simple absorption experiments; applications eg to relative hazards of exposure to humans. Applications also include thickness measurements of aluminium foil paper and steel. Inverse-square law for γ radiation:  I=kx2 Experimental verification of inverse-square law. Applications eg to safe handling of radioactive sources. Background radiation; examples of its origins and experimental elimination from calculations. Appreciation of balance between risk and benefits in the uses of radiation in medicine. ",
+                "opportunity": " "
+            },
+            "3.8.1.3 Radioactive decay (A-level only)": {
+                "content": "Random nature of radioactive decay; constant decay probability of a given nucleus;  ∆N∆t=-λN  N=N0e-λt Use of activity, A=λN Modelling with constant decay probability. Questions may be set which require students to use A=A0e-λt Questions may also involve use of molar mass or the Avogadro constant. Half-life equation:  T½=ln2λ Determination of half-life from graphical decay data including decay curves and log graphs. Applications eg relevance to storage of radioactive waste, radioactive dating etc. ",
+                "opportunity": " MS 1. 3, 3. 10, 3. 11 / PS 3. 1, 3. 2 Investigate the decay equation using a variety of approaches (including the use of experimental data, dice simulations etc) and a variety of analytical methods. "
+            },
+            "3.8.1.4 Nuclear instability (A-level only)": {
+                "content": "Graph of N against Z for stable nuclei. Possible decay modes of unstable nuclei including α , β+ , β- and electron capture. Changes in N and Z caused by radioactive decay and representation in simple decay equations. Questions may use nuclear energy level diagrams. Existence of nuclear excited states; γ ray emission; application eg use of technetium-99m as a γ source in medical diagnosis. ",
+                "opportunity": " "
+            },
+            "3.8.1.5 Nuclear radius (A-level only)": {
+                "content": "Estimate of radius from closest approach of alpha particles and determination of radius from electron diffraction. Knowledge of typical values for nuclear radius. Students will need to be familiar with the Coulomb equation for the closest approach estimate. Dependence of radius on nucleon number: R=R0A1/3 derived from experimental data. Interpretation of equation as evidence for constant density of nuclear material. Calculation of nuclear density. Students should be familiar with the graph of intensity against angle for electron diffraction by a nucleus. ",
+                "opportunity": " MS 1. 4 Make order of magnitude calculations of the radius of different atomic nuclei. "
+            },
+            "3.8.1.6 Mass and energy (A-level only)": {
+                "content": "Appreciation that E=mc2 applies to all energy changes,Simple calculations involving mass difference and binding energy. Atomic mass unit, u. Conversion of units; 1 u = 931. 5 MeV . Fission and fusion processes. Simple calculations from nuclear masses of energy released in fission and fusion reactions. Graph of average binding energy per nucleon against nucleon number. Students may be expected to identify, on the plot, the regions where nuclei will release energy when undergoing fission/fusion. Appreciation that knowledge of the physics of nuclear energy allows society to use science to inform decision making. ",
+                "opportunity": " "
+            },
+            "3.8.1.7 Induced fission (A-level only)": {
+                "content": "Fission induced by thermal neutrons; possibility of a chain reaction; critical mass. The functions of the moderator, control rods, and coolant in a thermal nuclear reactor. Details of particular reactors are not required. Students should have studied a simple mechanical model of moderation by elastic collisions. Factors affecting the choice of materials for the moderator, control rods and coolant.  Examples of materials used for these functions. ",
+                "opportunity": " "
+            },
+            "3.8.1.8 Safety aspects (A-level only)": {
+                "content": "Fuel used, remote handling of fuel, shielding, emergency shut-down. Production, remote handling, and storage of radioactive waste materials. Appreciation of balance between risk and benefits in the development of nuclear power. ",
+                "opportunity": " "
+            }
+        }
+    },
+    "3.9 Astrophysics (A-level only)": {
+        "3.9.1 Telescopes (A-level only)": {
+            "3.9.1.1 Astronomical telescope consisting of two converging lenses (A-level only)": {
+                "content": "Ray diagram to show the image formation in normal adjustment. Angular magnification in normal adjustment.  M=angle subtended by image at eyeangle subtended by object at unaided eye Focal lengths of the lenses.  M= fofe "
+            },
+            "3.9.1.2 Reflecting telescopes (A-level only)": {
+                "content": "Cassegrain arrangement using a parabolic concave primary mirror and convex secondary mirror. Ray diagram to show path of rays through the telescope up to the eyepiece. Relative merits of reflectors and refractors including a qualitative treatment of spherical and chromatic aberration. "
+            },
+            "3.9.1.3 Single dish radio telescopes, I-R, U-V and X-ray telescopes (A-level only)": {
+                "content": "Similarities and differences of radio telescopes compared to optical telescopes.  Discussion should include structure, positioning and use, together with comparisons of resolving and collecting powers. "
+            },
+            "3.9.1.4 Advantages of large diameter telescopes (A-level only)": {
+                "content": "Minimum angular resolution of telescope. Rayleigh criterion, θ≈λD Collecting power is proportional to diameter 2 . Students should be familiar with the rad as the unit of angle. Comparison of the eye and CCD as detectors in terms of quantum efficiency, resolution, and convenience of use. No knowledge of the structure of the CCD is required. "
+            }
+        },
+        "3.9.2 Classification of stars (A-level only)": {
+            "3.9.2.1 Classification by luminosity (A-level only)": {
+                "content": "Apparent magnitude, m . The Hipparcos scale. Dimmest visible stars have a magnitude of 6. Relation between brightness and apparent magnitude.  Difference of 1 on magnitude scale is equal to an intensity ratio of 2. 51. Brightness is a subjective scale of measurement. "
+            },
+            "3.9.2.2 Absolute magnitude, M(A-level only)": {
+                "content": "Parsec and light year. Definition of M , relation to m : m–M=5 logd10 "
+            },
+            "3.9.2.3 Classification by temperature, black-body radiation (A-level only)": {
+                "content": "Stefan’s law and Wien’s displacement law. General shape of black-body curves, use of Wien’s displacement law to estimate black-body temperature of sources. Experimental verification is not required.  λmaxT = constant = 2. 9 × 10-3 m K Assumption that a star is a black body. Inverse square law, assumptions in its application. Use of Stefan’s law to compare the power output, temperature and size of stars P=σAT4 "
+            },
+            "3.9.2.4 Principles of the use of stellar spectral classes (A-level only)": {
+                "content": "O",
+                "opportunity": "blue"
+            },
+            "3.9.2.5 The Hertzsprung-Russell (HR) diagram (A-level only)": {
+                "content": "General shape: main sequence, dwarfs and giants. Axis scales range from –10 to +15 (absolute magnitude) and 50 000 K to 2 500 K (temperature) or OBAFGKM (spectral class). Students should be familiar with the position of the Sun on the HR diagram. Stellar evolution: path of a star similar to our Sun on the HR diagram from formation to white dwarf. "
+            },
+            "3.9.2.6 Supernovae, neutron stars and black holes (A-level only)": {
+                "content": "Defining properties: rapid increase in absolute magnitude of supernovae; composition and density of neutron stars; escape velocity >c  for black holes. Gamma ray bursts due to the collapse of supergiant stars to form neutron stars or black holes. Comparison of energy output with total energy output of the Sun. Use of type 1a supernovae as standard candles to determine distances.  Controversy concerning accelerating Universe and dark energy. Students should be familiar with the light curve of typical type 1a supernovae. Supermassive black holes at the centre of galaxies. Calculation of the radius of the event horizon for a black hole, Schwarzschild radius Rs , Rs≈ 2GMc2 "
+            }
+        },
+        "3.9.3 Cosmology (A-level only)": {
+            "3.9.3.1 Doppler effect (A-level only)": {
+                "content": "  ∆ff= vc and z=∆λλ=-vc for v≪c applied to optical and radio frequencies. Calculations on binary stars viewed in the plane of orbit. Galaxies and quasars. "
+            },
+            "3.9.3.2 Hubble's law (A-level only)": {
+                "content": "Red shift v=Hd Simple interpretation as expansion of universe; estimation of age of universe, assuming H is constant. Qualitative treatment of Big Bang theory including evidence from cosmological microwave background radiation, and relative abundance of hydrogen and helium. "
+            },
+            "3.9.3.3 Quasars (A-level only)": {
+                "content": "Quasars as the most distant measurable objects. Discovery of quasars as bright radio sources. Quasars show large optical red shifts; estimation involving distance and power output. Formation of quasars from active supermassive black holes. "
+            },
+            "3.9.3.4 Detection of exoplanets (A-level only)": {
+                "content": "Difficulties in the direct detection of exoplanets. Detection techniques will be limited to variation in Doppler shift (radial velocity method) and the transit method. Typical light curve. "
+            }
+        }
+    },
+    "3.10 Medical physics (A-level only)": {
+        "3.10.1 Physics of the eye (A-level only)": {
+            "3.10.1.1 Physics of vision (A-level only)": {
+                "content": "The eye as an optical refracting system, including ray diagrams of image formation. Sensitivity of the eye; spectral response as a photodetector. Spatial resolution of the eye; explanation in terms of the behaviour of rods and cones. "
+            },
+            "3.10.1.2 Defects of vision and their correction using lenses (A-level only)": {
+                "content": "Properties of converging and diverging lenses; principal focus, focal length and power, power= 1f;  1u+1v=1f;m=vu Myopia, hypermetropia, astigmatism. Ray diagrams and calculations of powers (in dioptres) of correcting lenses for myopia and hypermetropia. The format of prescriptions for astigmatism. "
+            }
+        },
+        "3.10.2 Physics of the ear (A-level only)": {
+            "3.10.2.1 Ear as a sound detection system (A-level only)": {
+                "content": "Simple structure of the ear, transmission processes. "
+            },
+            "3.10.2.2 Sensitivity and frequency response (A-level only)": {
+                "content": "Production and interpretation of equal loudness curves. Human perception of relative intensity levels and the need for a logarithmic scale to reflect this. Definition of intensity.  Intensity level =10 log⁡II0 where the threshold of hearing I0=1. 0 ×10-12 W m-2 Measurement of sound intensity levels and the use of dB and dBA scales; relative intensity levels of sounds. "
+            },
+            "3.10.2.3 Defects of hearing (A-level only)": {
+                "content": "The effect on equal loudness curves and the changes experienced in terms of hearing loss due to injury resulting from exposure to excessive noise or deterioration with age (excluding physiological changes). "
+            }
+        },
+        "3.10.3 Biological measurement (A-level only)": {
+            "3.10.3.1 Simple ECG machines and the normal ECG waveform (A-level only)": {
+                "content": "Principles of operation for obtaining the ECG waveform; explanation of the characteristic shape of a normal ECG waveform. "
+            }
+        },
+        "3.10.4 Non-ionising imaging (A-level only)": {
+            "3.10.4.1 Ultrasound imaging (A-level only)": {
+                "content": "Reflection and transmission characteristics of sound waves at tissue boundaries, acoustic impedance, Z , and attenuation. Advantages and disadvantages of ultrasound imaging in comparison with alternatives including safety issues and resolution. Piezoelectric devicesPrinciples of generation and detection of ultrasound pulses. A-scans and B-scans. Examples of applications. Use of the equations Z = ρ c and IrIi= Z2 - Z1Z2 + Z12 "
+            },
+            "3.10.4.2 Fibre optics and endoscopy (A-level only)": {
+                "content": "Properties of fibre optics and applications in medical physics; including total internal reflection at the core–cladding interface. Physical principles of the optical system of a flexible endoscope; the use of coherent and non-coherent fibre bundles; examples of use for internal imaging and related advantages. "
+            },
+            "3.10.4.3 Magnetic resonance (MR) scanner (A-level only)": {
+                "content": "Basic principles of MR scanner;cross-section of patient scanned using magnetic fieldsprotons initially aligned with spins parallelspinning hydrogen nuclei (protons) precess about the magnetic field lines of a superconducting magnet'gradient' field coils used to scan cross-sectionshort radio frequency (RF) pulses cause excitation and change of spin state in successive small regionsprotons excited during the scan emit RF signals as they de-exciteRF signals detected and the resulting signals are processed by a computer to produce a visual image. Students will not be asked about the production of magnetic fields used in an MR scanner, or about de-excitation relaxation times. "
+            }
+        },
+        "3.10.5 X-ray imaging (A-level only)": {
+            "3.10.5.1 The physics of diagnostic X-rays (A-level only)": {
+                "content": "Physical principles of the production of X-rays; maximum photon energy, energy spectrum; continuous spectrum and characteristic spectrum. Rotating-anode X-ray tube; methods of controlling the beam intensity, the photon energy, the image sharpness and contrast, and the patient dose. "
+            },
+            "3.10.5.2 Image detection and enhancement (A-level only)": {
+                "content": "Flat panel (FTP) detector including X-ray scintillator, photodiode pixels, electronic scanning. Advantages of FTP detector compared with photographic detection. Contrast enhancement; use of X-ray opaque material as illustrated by the barium meal technique. Photographic detection with intensifying screen and fluoroscopic image intensification; reasons for using these. "
+            },
+            "3.10.5.3 Absorption of X-rays (A-level only)": {
+                "content": "Exponential attenuation. Linear coefficient μ , mass attenuation coefficient μm , half-value thickness I = I0  e-μx    μm=μρ Differential tissue absorption of X-rays excluding details of the absorption processes. "
+            },
+            "3.10.5.4 CT scanner (A-level only)": {
+                "content": "Basic principles of CT scanner:movement of X-ray tubenarrow, monochromatic X-ray beamarray of detectorscomputer used to process the signals and produce a visual image. Comparisons will be limited to advantages and disadvantages of image resolution, cost and safety issues.  Students will not be asked about the construction or operation of the detectors. "
+            }
+        },
+        "3.10.6 Radionuclide imaging and therapy (A-level only)": {
+            "3.10.6.1 Imaging techniques (A-level only)": {
+                "content": "Use of a gamma-emitting radioisotope as a tracer; technetium-99m , iodine-131 and indium-111 and their relevant properties. The properties should include the radiation emitted, the half-life, the energy of the gamma radiation, the ability for it to be labelled with a compound with an affinity for a particular organ. The Molybdenum-Technetium generator, its basic use and importance. PET scans. "
+            },
+            "3.10.6.2 Half-life (A-level only)": {
+                "content": "Physical, biological and effective half-lives; 1TE = 1TB+ 1TP ; definitions of each term. "
+            },
+            "3.10.6.3 Gamma camera (A-level only)": {
+                "content": "Basic structure and workings of a photomultiplier tube and gamma camera. "
+            },
+            "3.10.6.4 Use of high-energy X-rays (A-level only)": {
+                "content": "External treatment using high-energy X-rays.  Methods used to limit exposure to healthy cells. "
+            },
+            "3.10.6.5 Use of radioactive implants (A-level only)": {
+                "content": "Internal treatment using beta emitting implants. "
+            },
+            "3.10.6.6 Imaging comparisons (A-level only)": {
+                "content": "Students will be required to make comparisons between imaging techniques.  Questions will be limited to consideration of image resolution, convenience and safety issues. "
+            }
+        }
+    },
+    "3.11 Engineering physics (A-level only)": {
+        "3.11.1 Rotational dynamics (A-level only)": {
+            "3.11.1.1 Concept of moment of inertia (A-level only)": {
+                "content": " I=mr2  for a point mass.  I=Σmr2 for an extended object. Qualitative knowledge of the factors that affect the moment of inertia of a rotating object. Expressions for moment of inertia will be given where necessary. "
+            },
+            "3.11.1.2 Rotational kinetic energy (A-level only)": {
+                "content": " Ek=12Iω2 Factors affecting the energy storage capacity of a flywheel. Use of flywheels in machines. Use of flywheels for smoothing torque and speed, and for storing energy in vehicles, and in machines used for production processes. "
+            },
+            "3.11.1.3 Rotational motion (A-level only)": {
+                "content": "Angular displacement, angular speed, angular velocity, angular acceleration, ω=∆θ∆t , α=∆ω∆t Representation by graphical methods of uniform and non-uniform angular acceleration. Equations for uniform angular acceleration; ω2 = ω1  + αt ,  θ   =  ω1+ ω22t   θ=ω1t+αt22 , ω22=ω12+2αθ Students should be aware of the analogy between rotational and translational dynamics. "
+            },
+            "3.11.1.4 Torque and angular acceleration (A-level only)": {
+                "content": " T=Fr  T=Iα "
+            },
+            "3.11.1.5 Angular momentum (A-level only)": {
+                "content": " angular momentum=Iω Conservation of angular momentum. Angular impulse = change in angular momentum; T∆t=∆(Iω)  where T is constant. Applications may include examples from sport. "
+            },
+            "3.11.1.6 Work and power (A-level only)": {
+                "content": " W=Tθ ;  P=Tω Awareness that frictional torque has to be taken into account in rotating machinery. "
+            }
+        },
+        "3.11.2 Thermodynamics and engines (A-level only)": {
+            "3.11.2.1 First law of thermodynamics (A-level only)": {
+                "content": "Quantitative treatment of first law of thermodynamics, Q= ∆U+W where Q is energy transferred to the system by heating, ∆U is increase in internal energy and W is work done by the system. Applications of first law of thermodynamics. "
+            },
+            "3.11.2.2 Non-flow processes (A-level only)": {
+                "content": "Isothermal, adiabatic, constant pressure and constant volume changes.  pV = nRT adiabatic change  : pVγ = constant isothermal change  : pV = constant at constant pressure W = pΔV Application of first law of thermodynamics to the above processes. "
+            },
+            "3.11.2.3 The p–V diagram (A-level only)": {
+                "content": "Representation of processes on p–V diagram. Estimation of work done in terms of area below the graph. Extension to cyclic processes: work done per cycle = area of loop Expressions for work done are not required except for the constant pressure case, W = pΔV "
+            },
+            "3.11.2.4 Engine cycles (A-level only)": {
+                "content": "Understanding of a four-stroke petrol engine cycle and a diesel engine cycle, and of the corresponding indicator diagrams. Comparison with the theoretical diagrams for these cycles; use of indicator diagrams for predicting and measuring power and efficiency input power=calorific value×fuel flow rate Indicated power as (area of p-V loop)×(no.  of cycles per second)×(no.  of cylinders) Output or brake power,  P=Tω  friction power = indicated power – brake power Engine efficiency; overall, thermal and mechanical efficiencies.  Overall efficiency =brake powerinput power  Thermal efficiency = indicated powerinput power  Mechanical efficiency = brake powerindicated power A knowledge of engine constructional details is not required. Questions may be set on other cycles, but they will be interpretative and all essential information will be given. "
+            },
+            "3.11.2.5 Second Law and engines (A-level only)": {
+                "content": "Impossibility of an engine working only by the First Law. Second Law of Thermodynamics expressed as the need for a heat engine to operate between a source and a sink.  efficiency = WQH= QH-QCQH  maximum theoretical efficiency = TH- TCTH Reasons for the lower efficiencies of practical engines. Maximising use of W and QH for example in combined heat and power schemes. "
+            },
+            "3.11.2.6 Reversed heat engines (A-level only)": {
+                "content": "Basic principles and uses of heat pumps and refrigerators. A knowledge of practical heat pumps or refrigerator cycles and devices is not required. Coefficients of performance:refrigerator: COPref=QCW=QCQH-QC= TCTH-TC heat pump: COPhp=QHW=QHQH-QC= THTH-TC "
+            }
+        }
+    },
+    "3.12 Turning points in physics (A-level only)": {
+        "3.12.1 The discovery of the electron (A-level only)": {
+            "3.12.1.1 Cathode rays (A-level only)": {
+                "content": "Production of cathode rays in a discharge tube. "
+            },
+            "3.12.1.2 Thermionic emission of electrons (A-level only)": {
+                "content": "The principle of thermionic emission. Work done on an electron accelerated through a pd V  ; 12mv2=eV "
+            },
+            "3.12.1.3 Specific charge of the electron (A-level only)": {
+                "content": "Determination of the specific charge of an electron, eme , by any one method. Significance of Thomson’s determination of eme Comparison with the specific charge of the hydrogen ion. "
+            },
+            "3.12.1.4 Principle of Millikan’s determination of the electronic charge, e(A-level only)": {
+                "content": "Condition for holding a charged oil droplet, of charge Q , stationary between oppositely charged parallel plates.  QVd = mg Motion of a falling oil droplet with and without an electric field; terminal speed to determine the mass and the charge of the droplet. Stokes’ Law for the viscous force on an oil droplet used to calculate the droplet radius.  F=6πηrv Significance of Millikan’s results. Quantisation of electric charge. "
+            }
+        },
+        "3.12.2 Wave-particle duality (A-level only)": {
+            "3.12.2.1 Newton’s corpuscular theory of light (A-level only)": {
+                "content": "Comparison with Huygens’ wave theory in general terms. The reasons why Newton’s theory was preferred. "
+            },
+            "3.12.2.2 Significance of Young’s double slits experiment (A-level only)": {
+                "content": "Explanation for fringes in general terms, no calculations are expected. Delayed acceptance of Huygens’ wave theory of light. "
+            },
+            "3.12.2.3 Electromagnetic waves (A-level only)": {
+                "content": "Nature of electromagnetic waves. Maxwell’s formula for the speed of electromagnetic waves in a vacuum c=1μ0ε0 where μ0 is the permeability of free space and ε0 is the permittivity of free space. Students should appreciate that ε0 relates to the electric field strength due to a charged object in free space and μ0 relates to the magnetic flux density due to a current-carrying wire in free space. Hertz’s discovery of radio waves including measurements of the speed of radio waves. Fizeau’s determination of the speed of light and its implications. "
+            },
+            "3.12.2.4 The discovery of photoelectricity (A-level only)": {
+                "content": "The ultraviolet catastrophe and black-body radiation. Planck’s interpretation in terms of quanta. The failure of classical wave theory to explain observations on photoelectricity. Einstein’s explanation of photoelectricity and its significance in terms of the nature of electromagnetic radiation. "
+            },
+            "3.12.2.5 Wave–particle duality (A-level only)": {
+                "content": "de Broglie’s hypothesis: p=hλ  ; λ=h2meV  Low-energy electron diffraction experiments; qualitative explanation of the effect of a change of electron speed on the diffraction pattern. "
+            },
+            "3.12.2.6 Electron microscopes (A-level only)": {
+                "content": "Estimate of anode voltage needed to produce wavelengths of the order of the size of the atom. Principle of operation of the transmission electron microscope (TEM). Principle of operation of the scanning tunnelling microscope (STM). "
+            }
+        },
+        "3.12.3 Special relativity (A-level only)": {
+            "3.12.3.1 The Michelson-Morley experiment (A-level only)": {
+                "content": "Principle of the Michelson-Morley interferometer. Outline of the experiment as a means of detecting absolute motion. Significance of the failure to detect absolute motion. The invariance of the speed of light. "
+            },
+            "3.12.3.2 Einstein’s theory of special relativity (A-level only)": {
+                "content": "The concept of an inertial frame of reference. The two postulates of Einstein’s theory of special relativity:physical laws have the same form in all inertial framesthe speed of light in free space is invariant. "
+            },
+            "3.12.3.3 Time dilation (A-level only)": {
+                "content": "Proper time and time dilation as a consequence of special relativity. Time dilation: t=t01-v2c2  Evidence for time dilation from muon decay. "
+            },
+            "3.12.3.4 Length contraction (A-level only)": {
+                "content": "Length of an object having a speed v  l=l01-v2c2 "
+            },
+            "3.12.3.5 Mass and energy (A-level only)": {
+                "content": "Equivalence of mass and energy, E=mc2 ; E=m0c21-v2c2 Graphs of variation of mass and kinetic energy with speed. Bertozzi’s experiment as direct evidence for the variation of kinetic energy with speed. "
+            }
+        }
+    },
+    "3.13 Electronics (A-level only)": {
+        "3.13.1 Discrete semiconductor devices (A-level only)": {
+            "3.13.1.1 MOSFET (metal-oxide semiconducting field-effect transistor) (A-level only)": {
+                "content": "Simplified structure, behaviour and characteristics. Drain, source and gate.  VDS , VGS , IDSS , and Vth Use as a switch, use as a device with a very high input resistance. Use in N-channel, enhancement mode only is required. "
+            },
+            "3.13.1.2 Zener diode (A-level only)": {
+                "content": "Characteristic curve showing zener breakdown voltage and typical minimum operating current. Anode and cathode. Use with a resistor as a constant voltage source. Use to provide a reference voltage. Use as a stabiliser is not required. "
+            },
+            "3.13.1.3 Photodiode (A-level only)": {
+                "content": "Characteristic curves and spectral response curves. Use in photo-conductive mode as a detector in optical systems. Use with scintillator to detect atomic particles. "
+            },
+            "3.13.1.4 Hall effect sensor (A-level only)": {
+                "content": "Use as magnetic field sensor to monitor attitude. Use in tachometer. Principles of operation are not required. "
+            }
+        },
+        "3.13.2 Analogue and digital signals (A-level only)": {
+            "3.13.2.1 Difference between analogue and digital signals (A-level only)": {
+                "content": "Bits, bytes. Analogue-to-digital conversion:sampling audio signals for transmission in digital formconversion of analogue signals into digital data using two voltage levelsquantisationsampling rateeffect of sampling rate and number of bits per sample on quality of conversionadvantages and disadvantages of digital samplingprocess of recovery of original data from noisy signaleffect of noise in communication systems. Pulse code modulation. Students should appreciate the use of a variety of sensors to collect analogue data. The ability to carry out binary arithmetic is not required.  Knowledge of binary numbers 1 to 10 is adequate. "
+            }
+        },
+        "3.13.3 Analogue signal processing (A-level only)": {
+            "3.13.3.1 LC resonance filters (A-level only)": {
+                "content": "Resonant frequency, f0=12πLC Only parallel resonance arrangements are required. Analogy between LC circuit and mass–spring system. Inductance as mass analogy. Capacitance as spring analogy. Derivation of the equation is not required. Energy (voltage) response curve. The response curve for current is not required.  Q factor, Q=f0fB  fB is the bandwidth of the filter at the 50% energy points. "
+            },
+            "3.13.3.2 The ideal operational amplifier (A-level only)": {
+                "content": "Operation and characteristics of an ideal operational amplifier:power supply and signal connectionsinfinite open-loop gaininfinite input resistance. Open-loop transfer function for a real operational amplifier, Vout=AOL(V+-V-) Use as a comparator. The operational amplifier should be treated as an important system building block. "
+            }
+        },
+        "3.13.4 Operational amplifier in:": {
+            "3.13.4.1 inverting amplifier configuration (A-level only)": {
+                "content": "Derivation of  VoutVin=-RfRin , calculations. Meaning of virtual earth, virtual-earth analysis. "
+            },
+            "3.13.4.2 non-inverting amplifier configuration (A-level only)": {
+                "content": " VoutVin=1+RfRl Derivation is not required. "
+            },
+            "3.13.4.3 summing amplifier configuration (A-level only)": {
+                "content": " Vout=-RfV1R1+V2R2+V3R3+… Difference amplifier configuration. Derivation is not required.  Vout=(V+-V-)RfRl Derivation is not required. "
+            },
+            "3.13.4.4 Real operational amplifiers (A-level only)": {
+                "content": "Limitations of real operational amplifiers. Frequency response curve.  gain ×bandwidth=constant for a given device. "
+            }
+        },
+        "3.13.5 Digital signal processing (A-level only)": {
+            "3.13.5.1 Combinational logic (A-level only)": {
+                "content": "Use of Boolean algebra related to truth tables and logic gates.  A-=not A  A∙B=A and B  A+B=A or B Identification and use of AND, NAND, OR, NOR, NOT and EOR gates in combination in logic circuits. Construction and deduction of a logic circuit from a truth table. The gates should be treated as building blocks.  The internal structure or circuit of the gates is not required. "
+            },
+            "3.13.5.2 Sequential logic (A-level only)": {
+                "content": "Counting circuits:Binary counterBCD counterJohnson counter. Inputs to the circuits, clock, reset, up/down. Outputs from the circuits. Modulo- n counter from basic counter with the logic driving a reset pin. The gates should be treated as building blocks.  The internal structure or circuit of the gates is not required. "
+            },
+            "3.13.5.3 Astables (A-level only)": {
+                "content": "The astable as an oscillator to provide a clock pulse. Clock (pulse) rate (frequency), pulse width, period, duty cycle, mark-to-space ratio. Variation of running frequency using an external RC network. Knowledge of a particular circuit or a specific device (eg 555 chip) will not be required. "
+            }
+        },
+        "3.13.6 Data communication systems (A-level only)": {
+            "3.13.6.1 Principles of communication systems (A-level only)": {
+                "content": "Communication systems, block diagram of 'real time' communication system. Only the purpose of each stage is required. "
+            },
+            "3.13.6.2 Transmission media (A-level only)": {
+                "content": "Transmission-path media: metal wire, optic fibre, electromagnetic (radio, microwave). Ground wave, refraction and reflection of sky waves, diffraction of long-wavelength radiation around the Earth’s surface. Satellite systems and typical transmission frequencies. Students should recognise that up- and down-links require different frequencies so that the receivers are not de-sensed. Advantages and disadvantages of various transmission media.  Students should consider data transmission rate, cost, and security issues. "
+            },
+            "3.13.6.3 Time-division multiplexing (A-level only)": {
+                "content": "Basic principles of time-division multiplexing. "
+            },
+            "3.13.6.4 Amplitude (AM) and frequency modulation (FM) techniques (A-level only)": {
+                "content": "Principles of modulation; bandwidth. Carrier wave and information signal. Details of modulation circuits for modulating a carrier signal with the information signal will not be required. Graphical representation of both AM and FM modulated signals. A detailed mathematical treatment is not required. Students will be expected to identify the carrier frequency and the information frequency from a graph of the variation of signal voltage with time. Bandwidth requirements of simple AM and FM: bandwidth=2fM for AM bandwidth=2∆f+fM for FMData capacity of a channel. Comparison of bandwidth availability for various media. "
+            }
+        }
+    }
+}
