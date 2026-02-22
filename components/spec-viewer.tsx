@@ -108,7 +108,10 @@ function SpecCard({
       {isOpen && (
         <div className="px-3 pb-3 pt-0">
           <div className="rounded-lg bg-muted/40 p-3 ml-6">
-            <p className="text-xs text-muted-foreground leading-relaxed">{content}</p>
+              <div
+                  className="text-xs text-muted-foreground leading-relaxed [&>ul]:list-disc [&>ul]:ml-4 [&>ol]:list-decimal [&>ol]:ml-4"
+                  dangerouslySetInnerHTML={{ __html: content }}
+              />
           </div>
         </div>
       )}
