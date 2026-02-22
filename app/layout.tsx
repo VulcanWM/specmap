@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { DM_Sans, DM_Mono } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
+import Script from 'next/script'
 import './globals.css'
 
 const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" });
@@ -20,7 +20,16 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${dmSans.variable} ${dmMono.variable} font-sans antialiased`}>
         {children}
-        <Analytics />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FNCD9XSJS5" />
+        <Script id="google-analytics">
+            {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+            
+                gtag('config', 'G-FNCD9XSJS5');
+            `}
+        </Script>
       </body>
     </html>
   )
